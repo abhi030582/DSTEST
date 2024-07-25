@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/loken/OneDrive/Desktop/newds/DSTEST",
-      "program": "c:/Users/loken/OneDrive/Desktop/newds/DSTEST/build/Debug/outDebug",
+      "cwd": "c:/Users/loken/OneDrive/Desktop/DSTEST",
+      "program": "c:/Users/loken/OneDrive/Desktop/DSTEST/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
